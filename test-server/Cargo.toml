@@ -1,0 +1,12 @@
+[package]
+name = "test-server"
+version = "0.1.0"
+authors = ["Richard Dodd"]
+
+[dependencies.hyper]
+version = "*"
+default-features = false
+features = ["serde-serialization"]
+
+[dependencies]
+toml = "*"

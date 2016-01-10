@@ -1,0 +1,26 @@
+{
+  "name": "tumus",
+  "version": "0.0.1",
+  "description": "Online office software",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumus/tumus.git"
+  },
+  "keywords": [
+    "tumus",
+    "office",
+    "cloud",
+    "collaboration",
+    "crm"
+  ],
+  "author": "Richard Dodd <richard.o.dodd@gmail.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/tumus/tumus/issues"
+  },
+  "homepage": "https://github.com/tumus/tumus#readme"
+}
